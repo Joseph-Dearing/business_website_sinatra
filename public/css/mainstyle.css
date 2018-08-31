@@ -1,0 +1,93 @@
+.topnav {
+    overflow: hidden;
+    background-color: purple;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+
+
+.topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 17px;
+    text-decoration: none;
+    font-size: 20px;
+    margin: auto;
+}
+
+.main {
+    color: purple;
+    font-size: 90px;
+    text-align: center;
+}
+
+.drivers {
+    color: purple;
+    text-align: center;
+    font-size: 40px;
+}
+
+.aboutdrivers {
+    color: purple;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    font: bold;
+    border: solid 5px purple;
+}
+
+.aboutusheadline {
+    color: purple;
+    text-align: center;
+    font-size: 40px;
+}
+
+.aboutus {
+    color: purple;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    font: bold;
+    border: solid 4px purple;
+}
+
+.welcome {
+    color: purple;
+    text-align: center;
+    font-size: 40px;
+}
+
+.contact {
+    color: purple;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+body {
+    background-color: rgb(185, 175, 175);
+}
+
+.button {
+    text-align: center;
+}
+
+.information {
+    text-align: center;
+    color: purple;
+}
+
+.contact-form-header {
+    color: purple;
+}
+
+.messageInput {
+    color: purple;
+}
+
+strong {
+    color: purple;
+}
